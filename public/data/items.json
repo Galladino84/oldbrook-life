@@ -1,0 +1,54 @@
+{
+    "equipaggiamento": [
+      {
+        "id": "eq_001",
+        "nome": "Giacca di Pelle Gotica",
+        "descrizione": "Una giacca nera con borchie, perfetta per i goth.",
+        "bonus": {
+          "carisma": 2
+        },
+        "prezzo": 150
+      },
+      {
+        "id": "eq_002",
+        "nome": "Scarpe da Basket Pro",
+        "descrizione": "Scarpe ultra leggere per massima velocità in campo.",
+        "bonus": {
+          "maestria": 3
+        },
+        "prezzo": 200
+      }
+    ],
+    "activity_room": [
+      {
+        "id": "ar_001",
+        "nome": "Chitarra Elettrica",
+        "descrizione": "Strumento essenziale per suonare nella band.",
+        "bonus": {
+          "maestria": 2
+        },
+        "prezzo": 300
+      }
+    ],
+    "garage": [
+      {
+        "id": "g_001",
+        "nome": "Scooter 50cc",
+        "descrizione": "Perfetto per spostarsi rapidamente in città.",
+        "bonus": {
+          "velocità": 2
+        },
+        "prezzo": 500
+      }
+    ],
+    "consumabili": [
+      {
+        "id": "c_001",
+        "nome": "Energy Drink",
+        "descrizione": "Un boost di energia per affrontare la giornata.",
+        "effetto": "Aumento temporaneo di resistenza",
+        "prezzo": 5
+      }
+    ]
+  }
+  
