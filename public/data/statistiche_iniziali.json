@@ -1,0 +1,23 @@
+{
+    "Goth": {
+      "maschio": { "status": 2, "carisma": 5, "intelligenza": 6, "maestria": 6, "soldi": 80 },
+      "femmina": { "status": 3, "carisma": 6, "intelligenza": 6, "maestria": 7, "soldi": 80 }
+    },
+    "Metallaro": {
+      "maschio": { "status": 2, "carisma": 5, "intelligenza": 5, "maestria": 8, "soldi": 80 },
+      "femmina": { "status": 2, "carisma": 5, "intelligenza": 5, "maestria": 8, "soldi": 80 }
+    },
+    "Nerd": {
+      "maschio": { "status": 2, "carisma": 3, "intelligenza": 9, "maestria": 7, "soldi": 80 },
+      "femmina": { "status": 2, "carisma": 4, "intelligenza": 9, "maestria": 7, "soldi": 80 }
+    },
+    "Tabboz": {
+      "maschio": { "status": 5, "carisma": 8, "intelligenza": 4, "maestria": 5, "soldi": 80 },
+      "femmina": { "status": 5, "carisma": 8, "intelligenza": 4, "maestria": 5, "soldi": 80 }
+    },
+    "Sportivo": {
+      "maschio": { "status": 4, "carisma": 6, "intelligenza": 4, "maestria": 9, "soldi": 80 },
+      "femmina": { "status": 5, "carisma": 7, "intelligenza": 4, "maestria": 9, "soldi": 80 }
+    }
+  }
+  

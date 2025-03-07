@@ -1,65 +1,23 @@
 {
     "Goth": {
-      "maschio": {
-        "padre": {"nome": "Victor", "occupazione": "Musicista"},
-        "madre": {"nome": "Lilith", "occupazione": "Bibliotecaria"},
-        "fratello": { "nome": "Damien", "occupazione": "Studente" }
-      },
-      "femmina": {
-        "padre": {"nome": "Alaric", "occupazione": "Scrittore horror"},
-        "madre": {"nome": "Raven", "occupazione": "Proprietaria negozio dark"},
-        "fratello": {"nome": "Lucian", "occupazione": "Studente"}
-      }
+      "maschio": { "padre": "Ethan", "madre": "Raven", "fratello": "Sebastian" },
+      "femmina": { "padre": "Ethan", "madre": "Raven", "sorella": "Lilith" }
     },
-  
     "Metallaro": {
-      "maschio": {
-        "padre": {"nome": "Jack", "occupazione": "Meccanico"},
-        "madre": {"nome": "Emma", "occupazione": "Tatuatrice"}
-      },
-      "femmina": {
-        "padre": {"nome": "Axel", "occupazione": "Proprietario di locale"},
-        "madre": {"nome": "Grace", "occupazione": "Cantante rock"},
-        "fratello": {"nome": "Leo", "occupazione": "Chitarrista"}
-      }
+      "maschio": { "madre": "Isabella", "fratello": "Axel" },
+      "femmina": { "madre": "Isabella", "sorella": "Scarlett" }
     },
-  
     "Nerd": {
-      "maschio": {
-        "padre": {"nome": "Marco", "occupazione": "Informatico"},
-        "madre": {"nome": "Laura", "occupazione": "Insegnante di lettere"},
-        "sorella": {"nome": "Sofia", "occupazione": "Streamer"}
-      },
-      "femmina": {
-        "padre": {"nome": "Stefano", "occupazione": "Programmatore"},
-        "madre": {"nome": "Elisa", "occupazione": "Ricercatrice"},
-        "fratello": {"nome": "Luca", "occupazione": "Videogiocatore competitivo"}
-      }
+      "maschio": { "padre": "William", "madre": "Sophia", "sorella": "Emily" },
+      "femmina": { "padre": "William", "madre": "Sophia", "fratello": "Lucas" }
     },
-      
     "Tabboz": {
-      "maschio": {
-        "padre": {"nome": "Mike", "occupazione": "Meccanico"},
-        "madre": {"nome": "Anna", "occupazione": "Cassiera"}
-      },
-      "femmina": {
-        "padre": {"nome": "Tony", "occupazione": "Ex rapper"},
-        "madre": {"nome": "Bella", "occupazione": "Barista"},
-        "fratello": {"nome": "Luca", "occupazione": "Writer"}
-      }
+      "maschio": { "padre": "Brandon", "fratello": "Derek" },
+      "femmina": { "madre": "Jessica", "sorella": "Vanessa" }
     },
-  
     "Sportivo": {
-      "maschio": {
-        "padre": {"nome": "Franco", "occupazione": "Allenatore basket"},
-        "madre": {"nome": "Silvia", "occupazione": "Fisioterapista"},
-        "fratello": {"nome": "Chris", "occupazione": "Studente-atleta"}
-      },
-      "femmina": {
-        "padre": {"nome": "Marco", "occupazione": "Allenatore"},
-        "madre": {"nome": "Giulia", "occupazione": "Insegnante di yoga"},
-        "sorella": {"nome": "Giada", "occupazione": "Giocatrice di beach volley"}
-      }
+      "maschio": { "padre": "Michael", "madre": "Linda", "fratello": "Connor" },
+      "femmina": { "padre": "Michael", "madre": "Linda", "sorella": "Brooke" }
     }
   }
   
