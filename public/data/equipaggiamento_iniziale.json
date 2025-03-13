@@ -1,0 +1,276 @@
+{
+  "Goth": {
+    "maschio": [
+      {
+        "id": "goth_m_001",
+        "nome": "Cappello Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "testa",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "Cappello Goth maschile",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_m_002",
+        "nome": "Choker Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "collo",
+        "valore": 10,
+        "valore_rivendita": 3,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_m_003",
+        "nome": "Felpa Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_m_003",
+        "nome": "Jeans Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "gambe",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      },
+      {
+        "id": "goth_m_004",
+        "nome": "Scarpe Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "scarpe",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ],
+    "femmina": [
+      {
+        "id": "goth_f_001",
+        "nome": "Velo Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "testa",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_f_002",
+        "nome": "Choker Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "collo",
+        "valore": 10,
+        "valore_rivendita": 3,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_f_003",
+        "nome": "Felpa Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      },
+      {
+        "id": "goth_f_004",
+        "nome": "Gonna Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "gambe",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      },
+      {
+        "id": "goth_f_005",
+        "nome": "Stivaletti Goth",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "scarpe",
+        "valore": 25,
+        "valore_rivendita": 6,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ]
+  },
+
+  "Metallaro": {
+    "maschio": [
+      {
+        "id": "met_m_001",
+        "nome": "Bandana Metal",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "testa",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      },
+      {
+        "id": "metal_m_002",
+        "nome": "Giacca Jeans Metal",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ],
+    "femmina": [
+      {
+        "id": "metal_f_001",
+        "nome": "Bandana Metal",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "testa",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      },
+      {
+        "id": "metal_f_002",
+        "nome": "Top Metal",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ]
+  },
+
+  "Nerd": {
+    "maschio": [
+      {
+        "id": "nerd_m_001",
+        "nome": "Felpa Nerd",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ],
+    "femmina": [
+      {
+        "id": "nerd_f_001",
+        "nome": "Felpa Nerd",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ]
+  },
+
+  "Tabboz": {
+    "maschio": [
+      {
+        "id": "tabboz_m_001",
+        "nome": "T-shirt Tabboz",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ],
+    "femmina": [
+      {
+        "id": "tabboz_f_001",
+        "nome": "Top Tabboz",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 15,
+        "valore_rivendita": 4,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": true
+      }
+    ]
+  },
+
+  "Sportivo": {
+    "maschio": [
+      {
+        "id": "sport_m_001",
+        "nome": "Tuta Sportiva",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ],
+    "femmina": [
+      {
+        "id": "sport_f_001",
+        "nome": "Tuta Sportiva",
+        "rarità": "comune",
+        "tipologia": "equipaggiamento",
+        "slot": "torso",
+        "valore": 20,
+        "valore_rivendita": 5,
+        "bonus_statistiche": {},
+        "descrizione": "",
+        "equipaggiato": false
+      }
+    ]
+  }
+}
